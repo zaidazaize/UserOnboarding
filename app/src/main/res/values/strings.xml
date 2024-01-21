@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UserOnboarding</string>
+    <string name="blank">blank</string>
+    <string name="some_error_occurred">some error occured</string>
+    <string name="empty_email">empty email</string>
+    <string name="invalid_email">invalid email</string>
+    <string name="email_not_found">email not found</string>
+    <string name="email_already_register">email already registerd</string>
+    <string name="incorrect_password">incorrect password</string>
+    <string name="short_password">short password</string>
+    <string name="invalid_credentials">invalid credentials</string>
+    <string name="password_mismatch">password mismatch</string>
+    <string name="network_error">network error</string>
+</resources>
